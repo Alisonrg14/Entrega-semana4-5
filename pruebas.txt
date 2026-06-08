@@ -1,0 +1,11 @@
+Ruta http://localhost:3000 al ingresar la ruta 
+aprecio en la pantalla el siguiente mensaje: 
+Servidor activo.
+
+Ruta http://localhost:3000/saludo al ingresar la 
+ruta en el servidor aparecio en pantalla el 
+siguiente mensaje: Hola comunidad.
+
+Ruta http://localhost:3000/menssaje/juan al ingresar 
+la ruta en el servidor chrome aparecio en 
+pantalla el siguiente mensaje: Hola juan
