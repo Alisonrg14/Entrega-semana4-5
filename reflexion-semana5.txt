@@ -1,0 +1,9 @@
+Las APIs permiten compartir información 
+de forma organizada entre diferentes 
+aplicaciones.
+Ayudan a recibir reportes, enviar 
+alertas y mantener los datos 
+actualizados.
+Gracias a ellas, la comunicación entre 
+la comunidad y las organizaciones es
+más rapida y eficiente.
