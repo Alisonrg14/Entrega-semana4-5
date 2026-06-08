@@ -1,0 +1,9 @@
+Las comunidades pueden crear herramientas 
+tecnologicas propias para resolver problemas 
+según sus nesecidades. Tecnologias abiertas 
+como Node.js permiten desarrollar aplicaciones 
+sin altos costos y fomentan la colaboración. 
+Además, ayudan a aprender, innovar y compartir 
+conocimientos. Así las comunidades logran 
+mayor autonomía y pueden crear soluciones 
+útiles para todos.
