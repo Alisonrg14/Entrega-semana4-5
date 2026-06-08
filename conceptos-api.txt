@@ -1,0 +1,16 @@
+¿Que Hace Esta Ruta?
+
+Esta ruta permite recibir reportes 
+enviados por los usuarios 
+y devuelve una confirmación al 
+usuario de que el reporte fue 
+recibido correctamente.
+
+¿Para qué Podria Servir en una Aplicacion 
+Comunitaria?
+
+Esta Ruta puede utilizarse para que 
+los ciudadanos reporten problemas, 
+envíen sugerencias o informen 
+situaciones que requieran atención
+de la comunidad.
